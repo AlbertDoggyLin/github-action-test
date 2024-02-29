@@ -1,0 +1,1 @@
+![](https://github.com/AlbertDoggyLin/github-action-test/actions/workflows/github-action-demo.yml/badge.svg)
